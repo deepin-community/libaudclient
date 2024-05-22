@@ -1,0 +1,3 @@
+version=3
+
+opts=uversionmangle=s:-rc:~rc:g http://distfiles.audacious-media-player.org/libaudclient-(.*)\.tar\.bz2
